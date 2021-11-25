@@ -22,4 +22,4 @@ $ cd JALDI.THOK.ISKO
 
 $ ls
 
-$ python2 Lion.py
+$ python2 ACHA.py
